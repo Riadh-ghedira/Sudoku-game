@@ -543,7 +543,7 @@ void game(int slot){
         else if (strcmp(command, "load-game") == 0) {
             loadGame();
         } 
-        else if (strcmp(command, "deleat-game") == 0) {
+        else if (strcmp(command, "delete-game") == 0) {
             delGame();
         } 
         else if (strcmp(command, "new-game") == 0) {
