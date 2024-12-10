@@ -331,7 +331,7 @@ void setgrid(char level[]){
         n = 35;
         score = 60 ;
     } else {
-        n = 2;
+        n = 20;
         score = 20 ;
     }
     generate();
